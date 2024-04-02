@@ -9,8 +9,15 @@ One part of the map:
 
 ![Screenshot (39)](https://github.com/ebr77/mousy/assets/134643518/65148091-a855-4ec2-9fce-88fd24e5bb68)
 
+One of the task (finding the red bottle)
 
 ![Screenshot (33)](https://github.com/ebr77/mousy/assets/134643518/dad435a9-b29c-4829-970b-b41eb2fa826e)
+
+Other task
+
 ![Screenshot (34)](https://github.com/ebr77/mousy/assets/134643518/4b1c339e-9f7f-469b-b627-bfb6a718c078)
+
+Zombie chasing the mouse
+
 ![Screenshot (35)](https://github.com/ebr77/mousy/assets/134643518/42e51ac9-bdd0-42c2-b8bb-179eafafb215)
 
