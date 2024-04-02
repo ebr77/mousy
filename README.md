@@ -19,5 +19,5 @@ Other task
 
 Zombie chasing the mouse
 
-![Screenshot (35)](https://github.com/ebr77/mousy/assets/134643518/42e51ac9-bdd0-42c2-b8bb-179eafafb215)
+![Screenshot (35)](https://github.com/ebr77/mousy/assets/134643518/8b7e11cd-da54-4c5f-b131-e20c80146aec)
 
